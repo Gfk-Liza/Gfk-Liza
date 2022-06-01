@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gfk-Liza
-- 👀 I’m interested in learning Python and C#.
+- 👀 I’m interested in learning Python, C++ and C#.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m not looking to collaborate with anyone now.
 - 📫 No contact method has been established.
 
 <!---
