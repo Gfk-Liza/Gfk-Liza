@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gfk-Liza
-- 👀 I’m interested in learning Python, Julia, C++ and C#.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in learning Rust, LLM and C++.
+- 🌱 I’m currently learning Rust and LLM.
 - 💞️ I’m not looking to collaborate with anyone now.
 - 📫 No contact method has been established.
 
